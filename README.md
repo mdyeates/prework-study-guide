@@ -2,7 +2,7 @@
 
 ## Description
 
-This Study Guide was created to help me learn foundations while working through the prework module. It contains notes on HTML, CSS, Git and JavaScript. 
+This Study Guide was created to help students learn foundations while working through the prework module. It contains notes on HTML, CSS, Git and JavaScript. 
 
 ## Installation
 
